@@ -9,7 +9,7 @@ html{
 }
 @font-face {
     font-family: 'Heavitas';
-    src: url('../font/Heavitas.ttf') format('woff2');
+    src: url('../font/Heavitas.ttf') format('ttf');
 }
 
 .main{
